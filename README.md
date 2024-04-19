@@ -9,7 +9,8 @@ This repository contains a Movie Recommender System developed using Python. It u
 - **Performance Optimized**: Implements efficient data processing to ensure quick response times, even on large datasets.
 
 ## Technologies Used
-- Python 3.x
+- Python 3.11.8
 - Pandas for data manipulation
 - NumPy for numerical processing
+- Correlation Analysis: To measure the strength of association between two variables and direction for recommendation logic.
 
